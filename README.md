@@ -5,6 +5,8 @@
 # cin
 [简体中文](https://github.com/Cinling/cin/blob/master/doc/README.zh-cn.md)
 
+This repostory has been deprecated. new repostory:  [go-cam/cam](https://github.com/go-cam/cam)
+
 The http and websocket server's framework.
 
 Inspiration come form yii2.
